@@ -1,4 +1,4 @@
-Key  C №1 (encoder 1): 
+Key  C keyboard octave 1 (encoder 1): 
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone G5
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone E5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone G4
@@ -8,7 +8,7 @@ Reg. Signal 4' = (chip2 out pin 4) Tone C4
 Reg. Signal 8' = (chip2 out pin 11) Tone C3
 Reg. Signal 16' = (chip2 out pin 2) Tone C2
 
-Key C# №1 (encoder 2):
+Key C# keyboard octave 1 (encoder 2):
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone G#5
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone F5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone G#4
@@ -18,7 +18,7 @@ Reg. Signal 4' = (chip2 out pin 4) Tone C#4
 Reg. Signal 8' = (chip2 out pin 11) Tone C#3
 Reg. Signal 16' = (chip2 out pin 2) Tone C#2
 
-Key D №1 (encoder 3):
+Key D keyboard octave 1 (encoder 3):
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone A5
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone F#5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone A4
@@ -28,7 +28,7 @@ Reg. Signal 4' = (chip2 out pin 4) Tone D4
 Reg. Signal 8' = (chip2 out pin 11) Tone D3
 Reg. Signal 16' = (chip2 out pin 2) Tone D2
 
-Key D# №1 (encoder 4):
+Key D# keyboard octave 1 (encoder 4):
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone A#5
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone G5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone A#4
@@ -38,7 +38,7 @@ Reg. Signal 4' = (chip2 out pin 4) Tone D#4
 Reg. Signal 8' = (chip2 out pin 11) Tone D#3
 Reg. Signal 16' = (chip2 out pin 2) Tone D#2
 
-Key E №1 (encoder 5):
+Key E keyboard octave 1 (encoder 5):
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone B5
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone G#5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone B4
@@ -48,7 +48,7 @@ Reg. Signal 4' = (chip2 out pin 4) Tone E4
 Reg. Signal 8' = (chip2 out pin 11) Tone E3
 Reg. Signal 16' = (chip2 out pin 2) Tone E2
 
-Key F №1 (encoder 6):
+Key F keyboard octave 1 (encoder 6):
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone C6
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone A5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone C5
@@ -58,7 +58,7 @@ Reg. Signal 4' = (chip2 out pin 4) Tone F4
 Reg. Signal 8' = (chip2 out pin 11) Tone F3
 Reg. Signal 16' = (chip2 out pin 2) Tone F2
 
-Key F# №1 (encoder 7):
+Key F# keyboard octave 1 (encoder 7):
 Reg. Signal 1-1/3' = (chip1 out pin 9) Tone C#6
 Reg. Signal 1-3/5' = (chip1 out pin 4) Tone A#5
 Reg. Signal 2-2/3' = (chip1 out pin 11) Tone C#5
@@ -67,6 +67,96 @@ Reg. Signal 2' = (chip2 out pin 9) Tone F#5
 Reg. Signal 4' = (chip2 out pin 4) Tone F#4
 Reg. Signal 8' = (chip2 out pin 11) Tone F#3
 Reg. Signal 16' = (chip2 out pin 2) Tone F#2
+
+Key G keyboard octave 1 (encoder 8):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone D6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone B5
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone D5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone D4
+Reg. Signal 2' = (chip2 out pin 9) Tone G5
+Reg. Signal 4' = (chip2 out pin 4) Tone G4
+Reg. Signal 8' = (chip2 out pin 11) Tone G3
+Reg. Signal 16' = (chip2 out pin 2) Tone G2
+
+Key G# keyboard octave 1 (encoder 9):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone D#6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone C6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone D#5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone D#4
+Reg. Signal 2' = (chip2 out pin 9) Tone G#5
+Reg. Signal 4' = (chip2 out pin 4) Tone G#4
+Reg. Signal 8' = (chip2 out pin 11) Tone G#3
+Reg. Signal 16' = (chip2 out pin 2) Tone G#2
+
+Key A keyboard octave 1 (encoder 10):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone E6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone C#6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone E5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone E4
+Reg. Signal 2' = (chip2 out pin 9) Tone A5
+Reg. Signal 4' = (chip2 out pin 4) Tone A4
+Reg. Signal 8' = (chip2 out pin 11) Tone A3
+Reg. Signal 16' = (chip2 out pin 2) Tone A2
+
+Key A# keyboard octave 1 (encoder 11):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone F6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone D6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone F5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone F4
+Reg. Signal 2' = (chip2 out pin 9) Tone A#5
+Reg. Signal 4' = (chip2 out pin 4) Tone A#4
+Reg. Signal 8' = (chip2 out pin 11) Tone A#3
+Reg. Signal 16' = (chip2 out pin 2) Tone A#2
+
+Key B keyboard octave 1 (encoder 12):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone F#6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone D#6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone F#5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone F#4
+Reg. Signal 2' = (chip2 out pin 9) Tone B5
+Reg. Signal 4' = (chip2 out pin 4) Tone B4
+Reg. Signal 8' = (chip2 out pin 11) Tone B3
+Reg. Signal 16' = (chip2 out pin 2) Tone B2
+
+Key C keyboard octave 2 (encoder 13):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone G6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone E6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone G5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone G4
+Reg. Signal 2' = (chip2 out pin 9) Tone C6
+Reg. Signal 4' = (chip2 out pin 4) Tone C5
+Reg. Signal 8' = (chip2 out pin 11) Tone C4
+Reg. Signal 16' = (chip2 out pin 2) Tone C3
+
+Key C# keyboard octave 2 (encoder 14):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone G#6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone F6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone G#5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone G#4
+Reg. Signal 2' = (chip2 out pin 9) Tone C#6
+Reg. Signal 4' = (chip2 out pin 4) Tone C#5
+Reg. Signal 8' = (chip2 out pin 11) Tone C#4
+Reg. Signal 16' = (chip2 out pin 2) Tone C#3
+
+Key D keyboard octave 2 (encoder 15):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone A6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone F#6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone A5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone A4
+Reg. Signal 2' = (chip2 out pin 9) Tone D6
+Reg. Signal 4' = (chip2 out pin 4) Tone D5
+Reg. Signal 8' = (chip2 out pin 11) Tone D4
+Reg. Signal 16' = (chip2 out pin 2) Tone D3
+
+Key D# keyboard octave 2 (encoder 16):
+Reg. Signal 1-1/3' = (chip1 out pin 9) Tone A#6
+Reg. Signal 1-3/5' = (chip1 out pin 4) Tone G6
+Reg. Signal 2-2/3' = (chip1 out pin 11) Tone A#5
+Reg. Signal 5-1/3' = (chip1 out pin 2) Tone A#4
+Reg. Signal 2' = (chip2 out pin 9) Tone D#6
+Reg. Signal 4' = (chip2 out pin 4) Tone D#5
+Reg. Signal 8' = (chip2 out pin 11) Tone D#4
+Reg. Signal 16' = (chip2 out pin 2) Tone D#3
 
 
 
