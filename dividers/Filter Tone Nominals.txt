@@ -1,0 +1,110 @@
+Filter tone nominals for dividers module
+----------------------------------------
+Divider note "C"
+R1 = 2.7k, C1 = 2.2nF
+R2 = 5.6k, C2 = 3.3nF
+R3 = 4.7k, C3 = 6.8nF
+R4 = 4.7k, C4 = 10nF + 1.5nF
+R5 = 5.6k, C5 = 22nF
+R6 = 5.6k, C6 = 47nF + 10nF
+R7 = 5.6k, C7 = 100nF
+R8 = 5.6k, C8 = 250nF
+
+Divider note "C#"
+R1 = 4.7k, C1 = 3.3nF
+R2 = 4.7k, C2 = 6.8nF
+R3 = 4.7k, C3 = 10nF
+R4 = 5.6k, C4 = 22nF
+R5 = 5.6k, C5 = 47nF +10nF
+R6 = 4.7k, C6 = 100nF + 33nF
+R7 = 5.6k, C7 = 220nF
+
+Divider note "D"
+R1 = 4.7k, C1 = 3.3nF
+R2 = 4.7k, C2 = 3.3nF + 2.2nF
+R3 = 4.7k, C3 = 10nF
+R4 = 5.6k, C4 = 22nF
+R5 = 5.6k, C5 = 47nF
+R6 = 5.6k, C6 = 100nF + 22nF
+R7 = 5.6k, C7 = 100nF + 100nF
+
+Divider note "D#"
+R1 = 2.7k, C1 = 4.7nF
+R2 = 4.7k, C2 = 4.7nF + 1.5nF
+R3 = 4.7k, C3 = 4.7nF + 2.2nF
+R4 = 4.7k, C4 = 22nF
+R5 = 5.6k, C5 = 47nF
+R6 = 5.6k, C6 = 100nF + 10nF
+R7 = 5.6k, C7 = 100nF + 100nF
+
+Divider note "E"
+R1 = 2.7k, C1 = 4.7nF
+R2 = 4.7k, C2 = 4.7nF + 1.5nF
+R3 = 4.7k, C3 = 6.8nF + 3.3nF
+R4 = 5.6k, C4 = 15nF + 2.2nF
+R5 = 5.6k, C5 = 47nF
+R6 = 4.7k, C6 = 100nF + 10nF
+R7 = 5.6k, C7 = 100nF + 82nF
+
+Divider note "F"
+R1 = 2.7k, C1 = 4.7nF
+R2 = 5.6k, C2 = 3.3nF + 1.5nF
+R3 = 4.7k, C3 = 6.8nF + 3.3nF
+R4 = 5.6k, C4 = 15nF
+R5 = 5.6k, C5 = 33nF + 10nF
+R6 = 4.7k, C6 = 100nF + 10nF
+R7 = 5.6k, C7 = 100nF + 82nF
+
+Divider note "F#"
+R1 = 2.7k, C1 = 2.2nF + 2.2nF
+R2 = 4.7k, C2 = 4.7nF
+R3 = 4.7k, C3 = 6.8nF + 2.2nF
+R4 = 5.6k, C4 = 15nF
+R5 = 4.7k, C5 = 33nF + 10nF
+R6 = 4.7k, C6 = 100nF
+R7 = 5.6k, C7 = 100nF + 68nF
+
+Divider note "G"
+R1 = 2.7k, C1 = 2.2nF + 1.5nF
+R2 = 4.7k, C2 = 4.7nF
+R3 = 4.7k, C3 = 6.8nF + 2.2nF
+R4 = 5.6k, C4 = 10nF + 4.7nF
+R5 = 5.6k, C5 = 33nF
+R6 = 5.6k, C6 = 82nF
+R7 = 5.6k, C7 = 100nF + 47nF
+
+Divider note "G#"
+R1 = 2.7k, C1 = 2.2nF + 1.5nF
+R2 = 4.7k, C2 = 4.7nF
+R3 = 4.7k, C3 = 6.8nF + 2.2nF
+R4 = 5.6k, C4 = 10nF + 3.3nF
+R5 = 5.6k, C5 = 33nF
+R6 = 5.6k, C6 = 82nF
+R7 = 5.6k, C7 = 100nF + 33nF
+
+Divider note "A"
+R1 = 2.7k, C1 = 2.2nF + 1nF
+R2 = 4.7k, C2 = 3.3nF + 1.5nF
+R3 = 4.7k, C3 = 6.8nF + 1.5nF
+R4 = 5.6k, C4 = 10nF + 2.2nF
+R5 = 4.7k, C5 = 33nF
+R6 = 5.6k, C6 = 68nF + 10nF
+R7 = 5.6k, C7 = 100nF + 22nF
+
+Divider note "A#"
+R1 = 2.7k, C1 = 2.2nF + 1nF
+R2 = 5.6k, C2 = 3.3nF
+R3 = 4.7k, C3 = 6.8nF + 1.5nF
+R4 = 4.7k, C4 = 10nF + 2.2nF
+R5 = 4.7k, C5 = 22nF + 10nF
+R6 = 5.6k, C6 = 68nF
+R7 = 5.6k, C7 = 100nF + 10nF
+
+Divider note "B"
+R1 = 2.7k, C1 = 3.3nF
+R2 = 5.6k, C2 = 3.3nF
+R3 = 5.6k, C3 = 6.8nF
+R4 = 4.7k, C4 = 10nF + 2.2nF
+R5 = 5.6k, C5 = 22nF + 4.7nF
+R6 = 5.6k, C6 = 68nF
+R7 = 5.6k, C7 = 100nF
