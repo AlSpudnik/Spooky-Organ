@@ -1,0 +1,491 @@
+================================================================================
+-----------Key C keyboard octave 1 (encoder 1): 
+Bass Mode Switch 1-1/3' -> (TKU)Data Signal 1-1/3' -> (Keyboard Decoder) Tone G5
+Bass Mode Switch 1-3/5' -> (TKU)Data Signal 1-3/5' -> (Keyboard Decoder) Tone E5
+Bass Mode Switch 2-2/3' -> (TKU)Data Signal 2-2/3' -> (Keyboard Decoder) Tone G4
+Bass Mode Switch 5-1/3' -> (TKU)Data Signal 5-1/3' -> (Keyboard Decoder) Tone G3
+Bass Mode Switch 2'     -> (TKU)Data Signal 2'     -> (Keyboard Decoder) Tone C5
+Bass Mode Switch 4'     -> (TKU)Data Signal 4'     -> (Keyboard Decoder) Tone C4
+Bass Mode Switch 8'     -> (TKU)Data Signal 8'     -> (Keyboard Decoder) Tone C3
+Bass Mode Switch 16'    -> (TMU)Data Signal 16'    -> (Keyboard Decoder) Tone C2
+================================================================================
+-----------Key C# keyboard octave 1 (encoder 2):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G#5
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G#4
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G#3
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C#5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C#4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C#3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C#2
+================================================================================
+-----------Key D keyboard octave 1 (encoder 3):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A5
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F#5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A4
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A3
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D2
+================================================================================
+-----------Key D# keyboard octave 1 (encoder 4):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A#5
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A#4
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A#3
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D#5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D#4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D#3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D#2
+================================================================================
+-----------Key E keyboard octave 1 (encoder 5):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone B5
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G#5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone B4
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone B3
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone E5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone E4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone E3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone E2
+================================================================================
+-----------Key F keyboard octave 1 (encoder 6):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F2
+================================================================================
+-----------Key F# keyboard octave 1 (encoder 7):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C#6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A#5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C#5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C#4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F#5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F#4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F#3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F#2
+================================================================================
+-----------Key G keyboard octave 1 (encoder 8):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone B5
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G2
+================================================================================
+-----------Key G# keyboard octave 1 (encoder 9):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D#6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C6
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D#5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D#4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G#5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G#4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G#3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G#2
+================================================================================
+-----------Key A keyboard octave 1 (encoder 10):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone E6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C#6
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone E5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone E4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A2
+================================================================================
+-----------Key A# keyboard octave 1 (encoder 11):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D6
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A#5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A#4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A#3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A#2
+================================================================================
+-----------Key B keyboard octave 1 (encoder 12):
+Bass Mode Switch 1-1/3' -> (TKU) Data Signal 1-1/3' -> (Keyboard Decoder) F#6
+Bass Mode Switch 1-3/5' -> (TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D#6
+Bass Mode Switch 2-2/3' -> (TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F#5
+Bass Mode Switch 5-1/3' -> (TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F#4
+Bass Mode Switch 2'     -> (TKU) Data Signal 2'     -> (Keyboard Decoder) Tone B5
+Bass Mode Switch 4'     -> (TKU) Data Signal 4'     -> (Keyboard Decoder) Tone B4
+Bass Mode Switch 8'     -> (TKU) Data Signal 8'     -> (Keyboard Decoder) Tone B3
+Bass Mode Switch 16'    -> (TKU) Data Signal 16'    -> (Keyboard Decoder) Tone B2
+================================================================================
+-----------Key C keyboard octave 2 (encoder 13):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone E6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G5
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G4
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C3
+================================================================================
+-----------Key C# keyboard octave 2 (encoder 14):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G#5
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G#4
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C#6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C#5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C#4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C#3
+================================================================================
+-----------Key D keyboard octave 2 (encoder 15):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F#6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A5
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A4
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D3
+================================================================================
+-----------Key D# keyboard octave 2 (encoder 16):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A#5
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A#4
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D#6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D#5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D#4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D#3
+================================================================================
+-----------Key E keyboard octave 2 (encoder 17):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone B5
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone B4
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone E6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone E5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone E4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone E3
+================================================================================
+-----------Key F keyboard octave 2 (encoder 18):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F3
+================================================================================
+-----------Key F# keyboard octave 2 (encoder 19):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C#7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C#6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C#5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F#6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F#5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F#4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F#3
+================================================================================
+-----------Key G keyboard octave 2 (encoder 20):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G3
+================================================================================
+-----------Key G# keyboard octave 2 (encoder 21):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D#7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D#6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D#5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G#5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G#4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G#3
+================================================================================
+-----------Key A keyboard octave 2 (encoder 22):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone E7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C#7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone E6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone E5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A3
+================================================================================
+-----------Key A# keyboard octave 2 (encoder 23):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A#5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A#4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A#3
+================================================================================
+-----------Key B keyboard octave 2 (encoder 24):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F#7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D#7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F#6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F#5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone B5
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone B4
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone B3
+================================================================================
+-----------Key C keyboard octave 3 (encoder 25):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder)Tone E7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C4
+================================================================================
+-----------Key C# keyboard octave 3 (encoder 26):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G#7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G#5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C#7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C#6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C#5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C#4
+================================================================================
+-----------Key D keyboard octave 3 (encoder 27):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F#7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D4
+================================================================================
+-----------Key D# keyboard octave 3 (encoder 28):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A#7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A#5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D#7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D#6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D#5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D#4
+================================================================================
+-----------Key E keyboard octave 3 (encoder 29):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone B7
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G#7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone B5
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone E7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone E6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone E5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone E4
+================================================================================
+-----------Key F keyboard octave 3 (encoder 30):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F4
+================================================================================
+-----------Key F# keyboard octave 3 (encoder 31):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C#8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A#7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C#7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C#6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F#7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F#6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F#5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F#4
+================================================================================
+-----------Key G keyboard octave 3 (encoder 32):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone B7
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G4
+================================================================================
+-----------Key G# keyboard octave 3 (encoder 33):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D#8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D#7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D#6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G#7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G#5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G#4
+================================================================================
+-----------Key A keyboard octave 3 (encoder 34):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone E8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C#8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone E7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone E6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A4
+================================================================================
+-----------Key A# keyboard octave 3 (encoder 35):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A#7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A#5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A#4
+================================================================================
+-----------Key B keyboard octave 3 (encoder 36):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F#8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D#8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F#7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F#6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone B7
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone B5
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone B4
+================================================================================
+-----------Key C keyboard octave 4 (encoder 37):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone E8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C5
+================================================================================
+-----------Key C# keyboard octave 4 (encoder 38):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G#8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G#7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C#8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C#7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C#6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C#5
+================================================================================
+-----------Key D keyboard octave 4 (encoder 39):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone F#8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D5
+================================================================================
+-----------Key D# keyboard octave 4 (encoder 40):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone A#8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone A#7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone D#8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone D#7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone D#6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone D#5
+================================================================================
+-----------Key E keyboard octave 4 (encoder 41):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone B8
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone G#8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone B7
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone E8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone E7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone E6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone E5
+================================================================================
+-----------Key F keyboard octave 4 (encoder 42):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F5
+================================================================================
+-----------Key F# keyboard octave 4 (encoder 43):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone C#8 <an octave lower than C#9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone A#8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone C#8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone C#7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone F#8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone F#7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone F#6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone F#5
+================================================================================
+-----------Key G keyboard octave 4 (encoder 44):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D8 <an octave lower than D9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone B8
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G5
+================================================================================
+-----------Key G# keyboard octave 4 (encoder 45):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone D#8 <an octave lower than D#9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C9
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone D#8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone D#7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone G#8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone G#7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone G#6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone G#5
+================================================================================
+-----------Key A keyboard octave 4 (encoder 46):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone E8 <an octave lower than E9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone C#8 <an octave lower than C#9
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone E8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone E7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A5
+================================================================================
+-----------Key A# keyboard octave 4 (encoder 47):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F8 <an octave lower than F9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D8 <an octave lower than D9
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone A#8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone A#7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone A#6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone A#5
+================================================================================
+-----------Key B keyboard octave 4 (encoder 48):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone F#8 <an octave lower than F#9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone D#8 <an octave lower than D#9
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone F#8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone F#7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone B8
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone B7
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone B6
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone B5
+================================================================================
+-----------Key C keyboard octave 5 (encoder 49):
+(TKU) Data Signal 1-1/3' -> (Keyboard Decoder) Tone G8 <an octave lower than G9
+(TKU) Data Signal 1-3/5' -> (Keyboard Decoder) Tone E8 <an octave lower than E9
+(TKU) Data Signal 2-2/3' -> (Keyboard Decoder) Tone G8
+(TKU) Data Signal 5-1/3' -> (Keyboard Decoder) Tone G7
+(TKU) Data Signal 2'     -> (Keyboard Decoder) Tone C9
+(TKU) Data Signal 4'     -> (Keyboard Decoder) Tone C8
+(TKU) Data Signal 8'     -> (Keyboard Decoder) Tone C7
+(TKU) Data Signal 16'    -> (Keyboard Decoder) Tone C6
+================================================================================
